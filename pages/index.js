@@ -14,7 +14,7 @@ export default function Index({ allPosts }) {
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>Lisa Orr's Product Portfolio</title>
         </Head>
         <Container>
           <Intro />
