@@ -10,12 +10,11 @@ ogImage:
   url: '/assets/blog/journeys/journeycover.png'
 ---
 
-
 ## Product
 
 words
 
-## Role
+## My Role
 words
 
 ## Execution
@@ -25,7 +24,6 @@ words
 
 ### Challenges
 words
-
 
 ### Achievements
 words

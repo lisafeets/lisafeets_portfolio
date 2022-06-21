@@ -11,6 +11,14 @@ export default function Navigation() {
                 <ul className="flex justify-end">
                     <li>
                         <a
+                        href={`/`}
+                        className="hover:text-success duration-200 transition-colors p-4 block"
+                        >
+                        Portfolio
+                        </a>
+                    </li>
+                    <li>
+                        <a
                         href={`https://medium.com/@lisafeets`}
                         className="hover:text-success duration-200 transition-colors p-4 block"
                         >
@@ -19,15 +27,7 @@ export default function Navigation() {
                     </li>
                     <li>
                         <a
-                        href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
-                        className="hover:text-success duration-200 transition-colors p-4 block"
-                        >
-                        Portfolio
-                        </a>
-                    </li>
-                    <li>
-                        <a
-                        href={`https://github.com/vercel/next.js/tree/canary/examples/${EXAMPLE_PATH}`}
+                        href={`/about`}
                         className="hover:text-success duration-200 transition-colors p-4 block"
                         >
                         About
