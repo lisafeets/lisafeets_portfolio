@@ -11,10 +11,10 @@ export default function Navigation() {
                 <ul className="flex justify-end">
                     <li>
                         <a
-                        href={`/`}
+                        href={`/projects`}
                         className="hover:text-success duration-200 transition-colors p-4 block"
                         >
-                        Portfolio
+                        Projects
                         </a>
                     </li>
                     <li>

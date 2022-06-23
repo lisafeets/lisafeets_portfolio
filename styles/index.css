@@ -1,3 +1,25 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+/* Base  */
+body {
+    font-family: 'Heebo', sans-serif;
+}
+
+/* Color  */
+.orange {
+    color: #FF6464;
+}
+.mint {
+    color: #EDF7FA;
+}
+
+
+/* Button  */
+.button {
+    padding: 1rem;
+    background: #FF6464;
+    color: #FFFFFF;
+}
