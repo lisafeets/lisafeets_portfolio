@@ -1,17 +1,19 @@
 ---
 title: 'Cross-Channel Orchestration'
 excerpt: 'Right time, right message, right audience with Airship Journeys'
-coverImage: '/assets/blog/journeys/journeycover.png'
+coverImage: '/assets/blog/journeys/crosschannel.svg'
 date: '2022-06-01T05:35:07.322Z'
 author:
   name: Lisa Orr
   picture: '/assets/blog/authors/lisa.png'
 ogImage:
-  url: '/assets/blog/journeys/journeycover.png'
+  url: '/assets/blog/journeys/crosschannel.svg'
 ---
 
 ## Product
 A marketing technology orchestration platform that allows marketers to send meaningful messages to their customers while measuring and refining performance throughout the customer lifecycle.
+
+![Cross channel message journey UI](/assets/blog/journeys/journeycover.png)
 
 ---
  

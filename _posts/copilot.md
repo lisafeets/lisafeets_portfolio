@@ -1,18 +1,20 @@
 ---
 title: 'Copilot Academy: A company-wide mentorship program'
 excerpt: 'Grassroots mentorship program empowering mentees to pitch mentors'
-coverImage: '/assets/blog/copilot/copilotcover.png'
+coverImage: '/assets/blog/copilot/co-pilot.svg'
 date: '2022-05-26T05:35:07.322Z'
 author:
   name: Lisa Orr
   picture: '/assets/blog/authors/lisa.png'
 ogImage:
-  url: '/assets/blog/copilot/copilotcover.png'
+  url: '/assets/blog/copilot/co-pilot.svg'
 ---
 
 ## Product
 
 A company-sponsored mentorship program rooted in mentees formally pitching mentors for guidance on a 3-month project or initiative
+
+![Mentor/Mentee matching](/assets/blog/copilot/copilotcover.png)
 
 ---
  
