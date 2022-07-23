@@ -18,30 +18,34 @@ export default function Post({ post, morePosts, preview }) {
   }
   return (
     <Layout preview={preview}>
-      <Container>
-        <Header />
+        <Container>
+          <Header />
+        </Container>
         {router.isFallback ? (
           <PostTitle>Loading…</PostTitle>
         ) : (
           <>
             <article className="mb-32">
-              <Head>
-                <title>
-                  {post.title} | Lisa Orr's product portfolio and blog
-                </title>
-                <meta property="og:image" content={post.ogImage.url} />
-              </Head>
-              <PostHeader
-                title={post.title}
-                coverImage={post.coverImage}
-                date={post.date}
-                author={post.author}
-              />
+              <div className="bg-sky-50 pt-16 pb-4">
+                <Container>
+                  <Head>
+                    <title>
+                      {post.title} | Lisa Orr's product portfolio and blog
+                    </title>
+                    <meta property="og:image" content={post.ogImage.url} />
+                  </Head>
+                  <PostHeader
+                    title={post.title}
+                    coverImage={post.coverImage}
+                    date={post.date}
+                    author={post.author}
+                  />
+                </Container>
+              </div>
               <PostBody content={post.content} />
             </article>
           </>
         )}
-      </Container>
     </Layout>
   )
 }

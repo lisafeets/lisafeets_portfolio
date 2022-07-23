@@ -8,7 +8,7 @@ export default function Intro() {
         <h1 className="text-6xl md:text-7xl font-bold leading-tight">
           Hi, I'm Lisa Orr,<br />Product Leader
         </h1>
-        <p className="text-lg block">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
+        <p className="text-lg block text-slate-500">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
           Velit officia consequat duis enim velit mollit. 
           Exercitation veniam consequat sunt nostrud amet.</p>
         <a href="/assets/resume/resume2022.pdf"
