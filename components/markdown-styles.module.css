@@ -1,5 +1,6 @@
 .markdown {
   @apply text-lg leading-relaxed;
+  color: #21243D;
 }
 
 .markdown p,
@@ -9,10 +10,28 @@
   @apply my-6;
 }
 
+.markdown ul {
+  @apply list-disc ml-16;
+  color: #777990;
+}
+
 .markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug;
+  @apply text-3xl mt-12 mb-4 leading-snug font-bold /*md:float-left md:w-24; */
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug;
+  @apply text-2xl mt-8 mb-4 leading-snug font-bold;
+  color: #777990;
+}
+
+.markdown hr {
+  @apply mt-12;
+}
+
+.markdown p {
+  color: #777990;
+}
+
+.markdown strong {
+  color: #21243D;
 }
