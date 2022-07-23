@@ -1,6 +1,5 @@
 .markdown {
-  @apply text-lg leading-relaxed;
-  color: #21243D;
+  @apply text-lg leading-relaxed text-slate-800;
 }
 
 .markdown p,
@@ -11,8 +10,7 @@
 }
 
 .markdown ul {
-  @apply list-disc ml-16;
-  color: #777990;
+  @apply list-disc ml-16 text-slate-500;
 }
 
 .markdown h2 {
@@ -20,8 +18,7 @@
 }
 
 .markdown h3 {
-  @apply text-2xl mt-8 mb-4 leading-snug font-bold;
-  color: #777990;
+  @apply text-2xl mt-8 mb-4 leading-snug font-bold text-slate-500;
 }
 
 .markdown hr {
@@ -29,9 +26,13 @@
 }
 
 .markdown p {
-  color: #777990;
+  @apply text-slate-500;
 }
 
 .markdown strong {
-  color: #21243D;
+  @apply text-slate-800;
+}
+
+.markdown a {
+  @apply underline text-sky-400 hover:text-sky-800;
 }
