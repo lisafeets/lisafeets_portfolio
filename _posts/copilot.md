@@ -1,5 +1,5 @@
 ---
-title: 'Copilot Academy: A company-wide mentorship program'
+title: 'Product Portfolio: Copilot Academy, A company-wide mentorship program'
 excerpt: 'Grassroots mentorship program empowering mentees to pitch mentors'
 coverImage: '/assets/blog/copilot/copilotcover.png'
 date: '2022-05-26T05:35:07.322Z'
@@ -14,7 +14,7 @@ ogImage:
 
 A company-sponsored mentorship program rooted in mentees formally pitching mentors for guidance on a 3-month project or initiative
  
-## Role
+## My Role
 * **Community Manager** Recruited and supported prospective mentors and mentees to build up a mentorship marketplace that spanned teams (e.g. sales, engineering, HR) and seniorty (from interns to the CEO)
 * **Champion to Leadership** Led the effort to establish an official company sponsored mentorship program. Worked with leadership to prove out the process by running a pilot program with 1 mentor/mentee pair.
 * **Mentor and Mentee** Participated as a mentor and mentee in the program supporting/executing both data science and product management projects. 

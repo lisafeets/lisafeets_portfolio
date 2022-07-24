@@ -1,5 +1,5 @@
 ---
-title: 'Cross-Channel Orchestration'
+title: 'Product Portfolio: Cross-Channel Orchestration'
 excerpt: 'Right time, right message, right audience with Airship Journeys'
 coverImage: '/assets/blog/journeys/journeycover.png'
 date: '2022-06-01T05:35:07.322Z'
@@ -14,7 +14,7 @@ ogImage:
 
 A marketing technology orchestration platform that allows marketers to send meaningful messages to their customers while measuring and refining performance throughout the customer lifecycle.
  
-## Role
+## My Role
 * **Discovery trio leader** Led product discovery activities including customer interviews, design sprints, opportunity solution map creation and maintenance
 * **Product owner** Created solution assets including user stories and scenarios, ran discovery/delivery hand-off sessions, created demos and training to support launch activities
 * **Strategic planner of the roadmap** Determined what phases of product work should happen when and worked with leadership to gain ongoing investment in the roadmap and strategic direction
