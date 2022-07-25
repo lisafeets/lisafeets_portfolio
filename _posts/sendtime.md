@@ -7,18 +7,24 @@ author:
   name: Lisa Orr
   picture: '/assets/blog/authors/lisa.png'
 ogImage:
-  url: '/assets/blog/journeys/sendtime-optimize.png'
+  url: /assets/blog/sendtime/sendtime-optimize.png
 ---
 
 ## Product
 
 Predicting the best time to send a marketing message to end users to drive higher open rates.
  
+![Send Time Optimization UI](/assets/blog/sendtime/sendtimecover.png)
+
+ ---
+
 ## My Role
 
 * **Model Development, Experimentation, and Integration** Led the ideation and creation of the supporting machine learning model including customer experimentation (a/b testing models) and integration of the model's output with backend systems.
 * **Customer discovery Lead** Recruited customers for discovery sessions to evaluate business viability and usability risks to ensure we built a ML solution that would drive value for the marketer and a great experience for their end user
 * **Solution Champion** Worked with marketing to build out supporting launch materials including blog posts and webinars. Toured with the Airship team for the Elevate roadshow to present the solution on stage in NYC, Atlanta, Santa Monica, SF, and Toronto. 
+
+---
 
 ## Execution
 
@@ -26,12 +32,16 @@ Predicting the best time to send started out as a hack week project. We spent th
 
 With backing from stakeholders, I began building the predictive send time solution. The development occurred in three phases: Customer Discovery, Model Design, and Productization of the solution.  
 
+---
+
 ### Customer discovery 
 We talked with several customers about their timing strategies and how they decide when the best time to engage might be. There was a broad range in sophistication between customers and their send time strategies. Some marketers select a single send time for an entire campaign, some marketers selected individual times for users within their campaigns.
 
 One customer quoted using their intuition for deciding the best time to send a campaign (e.g. a marketer of a dating app thought sending messages at 6pm local time would be the best). One of our most sophisticated customers, a telecom company, selected best time for each individual based on a few rules: send to last time a user opened, if that time was outside day hours the send to next day hour.
 
 All of the customers we spoke with expressed interest in a Best Time model (even the very sophisticated telecom company) for the opportunity to save themselves time and potentially increase the direct open rate of the messages being sent.
+
+---
 
 ### Model design
 
@@ -42,6 +52,7 @@ The main ingrediants to the model were distribution of opens aggregated at the u
 
 Based on customer (and internal stakeholder) feedback, we included a "daytime bias" vector to ensure that the likelyhood of sending a daytime push was higher than sending an evening push. Although the models were learning from user behaviour directly and could therefore theoretically optimize for nighttime pushes for true night owls, this behaviour was deemed risky and could potentially be deleterious to a brand's image. We therefore introduced a "daytime bias" to reduce this risk.
 
+---
 
 ### Productizing the Send Time solution
 
@@ -49,6 +60,7 @@ With the send time optimization model created and ready to emit user-level predi
 
 Once the model was live in production, we launched the new predictive solution as the Predictive Send Time Optimization solution in Fall of 2018. I worked with product marketing to create education pieces on machine learning, the new model, and use cases customer could get started with asap. 
 
+---
 
 ## Challenges & Achievements
 

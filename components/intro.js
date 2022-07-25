@@ -11,7 +11,7 @@ export default function Intro() {
         <p className="text-lg block text-slate-500">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. 
           Velit officia consequat duis enim velit mollit. 
           Exercitation veniam consequat sunt nostrud amet.</p>
-        <a href="/assets/resume/resume2022.pdf"
+        <a href="/assets/resume/lisafeets_resume.pdf"
           className="bg-accent-1 hover:bg-white hover:text-accent-1 border border-accent-1 text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mt-6 inline-block"
         >
           Download Resume
