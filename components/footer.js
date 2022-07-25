@@ -3,24 +3,22 @@ import { EXAMPLE_PATH } from '../lib/constants'
 
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2">
+    <footer className="border-t border-accent-2">
       <Container>
-        <div className="py-28 flex flex-col lg:flex-row items-center">
-          <h3 className="text-4xl lg:text-5xl font-bold tracking-tighter leading-tight text-center lg:text-left mb-10 lg:mb-0 lg:pr-4 lg:w-1/2">
-            lisafeets' product portfolio
-          </h3>
-          <div className="flex flex-col lg:flex-row justify-center items-center lg:pl-4 lg:w-1/2">
-            <a
-              href="/assets/resume/resume2022.pdf"
-              className="mx-3 bg-black hover:bg-white hover:text-black border border-black text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mb-6 lg:mb-0"
-            >
-              Resume
+        <div className="py-28">
+          <div className="flex justify-center items-center">
+            <a className="mx-4" href="https://www.linkedin.com/in/lisaorr">
+                <img alt="linkedin logo" src={"/icons/github-fill.svg"} height={45} width={45} />
+                <span className="invisible">Github</span>
             </a>
-            <a
-              href={`https://www.linkedin.com/in/lisaorr`}
-              className="mx-3 font-bold hover:underline"
-            >
-              Linkedin
+            <a className="mx-4"
+              href="mailto:lisa's email">
+              <img alt="linkedin logo" src={"/icons/mail-fill.svg"} height={45} width={45} />
+              <span className="invisible">Email</span>
+            </a>
+            <a className="mx-4" href="https://www.linkedin.com/in/lisaorr">
+                <img alt="linkedin logo" src={"/icons/linkedin-box-fill.svg"} height={45} width={45} />
+                <span className="invisible">LinkedIn</span>
             </a>
           </div>
         </div>

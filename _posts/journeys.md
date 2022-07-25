@@ -1,23 +1,28 @@
 ---
 title: 'Product Portfolio: Cross-Channel Orchestration'
 excerpt: 'Right time, right message, right audience with Airship Journeys'
-coverImage: '/assets/blog/journeys/journeycover.png'
+coverImage: '/assets/blog/journeys/crosschannel.svg'
 date: '2022-06-01T05:35:07.322Z'
 author:
   name: Lisa Orr
   picture: '/assets/blog/authors/lisa.png'
 ogImage:
-  url: '/assets/blog/journeys/journeycover.png'
+  url: '/assets/blog/journeys/crosschannel.svg'
 ---
 
 ## Product
-
 A marketing technology orchestration platform that allows marketers to send meaningful messages to their customers while measuring and refining performance throughout the customer lifecycle.
+
+![Cross channel message journey UI](/assets/blog/journeys/journeycover.png)
+
+---
  
 ## My Role
 * **Discovery trio leader** Led product discovery activities including customer interviews, design sprints, opportunity solution map creation and maintenance
 * **Product owner** Created solution assets including user stories and scenarios, ran discovery/delivery hand-off sessions, created demos and training to support launch activities
 * **Strategic planner of the roadmap** Determined what phases of product work should happen when and worked with leadership to gain ongoing investment in the roadmap and strategic direction
+
+---
 
 ## Execution
 As of Fall 2018, the number one reason Airship was losing new business deals was due to our lack of a Journey Builder type solution. Airship kicked off the "Cassiopeia" project to leapfrog the competition using Product Discovery techniques.
@@ -32,6 +37,7 @@ With a solid basis in customer and market discovery, we built and launched [Airs
 
 I worked with leadership to build a now/next/later focused roadmap to ensure we continue delivering on customer value. Over the following year we released sales-leading and customer-loved solution expansions including an Experimentation platform and OOTB quickstart templates and guides. 
 
+---
 
 ## Challenges & Achievements
 
@@ -39,8 +45,6 @@ I worked with leadership to build a now/next/later focused roadmap to ensure we 
 * **Sales wants to sell what they know, not something new!** Led marketing team in building sales decks and FUD to help sales sell the vision and value
 * **Do we really need to keep investing after the first launch?** Convinced leadership that further investing in Journeys meant investing in a vision for the entire platform
 * **Too much new, how do we demo??** Created demo videos with synthesized data to aid with pipeline capture and success teams drive adoption. Led Gartner/Forrester demos
-
-
 
 ### Achievements
 * **Cemented leadership position in Gartner and Forrester** Airship Journeys was a major factor in our leadership position in the [Gartner](https://www.businesswire.com/news/home/20201029005886/en/Airship-Named-a-Leader-in-the-2020-Gartner-Magic-Quadrant-for-Mobile-Marketing-Platforms) and [Forrester](https://www.airship.com/resources/analyst-report/forrester-wave-mobile-engagement-automation-q3-2020/) rankings for 2020

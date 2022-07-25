@@ -1,23 +1,29 @@
 ---
 title: 'Product Portfolio: Copilot Academy, A company-wide mentorship program'
 excerpt: 'Grassroots mentorship program empowering mentees to pitch mentors'
-coverImage: '/assets/blog/copilot/copilotcover.png'
+coverImage: '/assets/blog/copilot/co-pilot.svg'
 date: '2022-05-26T05:35:07.322Z'
 author:
   name: Lisa Orr
   picture: '/assets/blog/authors/lisa.png'
 ogImage:
-  url: '/assets/blog/copilot/copilotcover.png'
+  url: '/assets/blog/copilot/co-pilot.svg'
 ---
 
 ## Product
 
 A company-sponsored mentorship program rooted in mentees formally pitching mentors for guidance on a 3-month project or initiative
+
+![Mentor/Mentee matching](/assets/blog/copilot/copilotcover.png)
+
+---
  
 ## My Role
 * **Community Manager** Recruited and supported prospective mentors and mentees to build up a mentorship marketplace that spanned teams (e.g. sales, engineering, HR) and seniorty (from interns to the CEO)
 * **Champion to Leadership** Led the effort to establish an official company sponsored mentorship program. Worked with leadership to prove out the process by running a pilot program with 1 mentor/mentee pair.
 * **Mentor and Mentee** Participated as a mentor and mentee in the program supporting/executing both data science and product management projects. 
+
+---
 
 ## Execution
 While I was at Airship I led the development of a company-wide mentorship program, launching in 2018 and active to this day. The desire sprung up from employees in our Diversity Guild group and rather than waiting for the company to start a program, we built one from the ground up.
@@ -34,6 +40,7 @@ With these pillars in mind we created the Co-Pilot Academy. Mentees are required
 
 To gain leadership buyin and company sponsorship we ran a 3 month pilot program with one official mentor/mentee match. We followed up with a demonstration of the results to leadership who greenlit a full rollout in the Fall of 2018. 
 
+---
 
 ## Challenges & Achievements
 

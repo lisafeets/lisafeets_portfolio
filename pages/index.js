@@ -9,7 +9,7 @@ import { CMS_NAME } from '../lib/constants'
 
 export default function Index({ allPosts }) {
   const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+  const morePosts = allPosts.slice(1, 3)
   return (
     <>
       <Layout>
@@ -18,18 +18,26 @@ export default function Index({ allPosts }) {
         </Head>
         <Container>
           <Intro />
-          {heroPost && (
-            <HeroPost
-              title={heroPost.title}
-              coverImage={heroPost.coverImage}
-              date={heroPost.date}
-              author={heroPost.author}
-              slug={heroPost.slug}
-              excerpt={heroPost.excerpt}
-            />
-          )}
-          {morePosts.length > 0 && <MoreStories posts={morePosts} />}
         </Container>
+        <div className="bg-sky-50 pt-16 pb-16">
+          <Container>
+            {heroPost && (
+              <HeroPost
+                title={heroPost.title}
+                coverImage={heroPost.coverImage}
+                date={heroPost.date}
+                author={heroPost.author}
+                slug={heroPost.slug}
+                excerpt={heroPost.excerpt}
+              />
+            )}
+            </Container>
+          </div>
+          <Container>
+            <div className="md:mt-16">
+              {morePosts.length > 0 && <MoreStories posts={morePosts} />}
+            </div>
+          </Container>
       </Layout>
     </>
   )
