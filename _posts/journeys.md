@@ -1,5 +1,5 @@
 ---
-title: 'Product Portfolio: Cross-Channel Orchestration'
+title: 'Airship Journeys'
 excerpt: 'Right time, right message, right audience with Airship Journeys'
 coverImage: '/assets/blog/journeys/crosschannel.svg'
 date: '2022-06-01T05:35:07.322Z'

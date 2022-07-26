@@ -1,5 +1,5 @@
 ---
-title: 'Product Portfolio: Copilot Academy, A company-wide mentorship program'
+title: 'Copilot Academy Mentorship Program'
 excerpt: 'Grassroots mentorship program empowering mentees to pitch mentors'
 coverImage: '/assets/blog/copilot/co-pilot.svg'
 date: '2022-05-26T05:35:07.322Z'
