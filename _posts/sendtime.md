@@ -32,7 +32,6 @@ Predicting the best time to send started out as a hack week project. We spent th
 
 With backing from stakeholders, I began building the predictive send time solution. The development occurred in three phases: Customer Discovery, Model Design, and Productization of the solution.  
 
----
 
 ### Customer discovery 
 We talked with several customers about their timing strategies and how they decide when the best time to engage might be. There was a broad range in sophistication between customers and their send time strategies. Some marketers select a single send time for an entire campaign, some marketers selected individual times for users within their campaigns.
@@ -41,7 +40,6 @@ One customer quoted using their intuition for deciding the best time to send a c
 
 All of the customers we spoke with expressed interest in a Best Time model (even the very sophisticated telecom company) for the opportunity to save themselves time and potentially increase the direct open rate of the messages being sent.
 
----
 
 ### Model design
 
@@ -52,7 +50,6 @@ The main ingrediants to the model were distribution of opens aggregated at the u
 
 Based on customer (and internal stakeholder) feedback, we included a "daytime bias" vector to ensure that the likelyhood of sending a daytime push was higher than sending an evening push. Although the models were learning from user behaviour directly and could therefore theoretically optimize for nighttime pushes for true night owls, this behaviour was deemed risky and could potentially be deleterious to a brand's image. We therefore introduced a "daytime bias" to reduce this risk.
 
----
 
 ### Productizing the Send Time solution
 
