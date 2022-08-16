@@ -12,7 +12,7 @@ ogImage:
 
 ## Product
 
-A company-sponsored mentorship program rooted in mentees formally pitching mentors for guidance on a 3-month project or initiative
+A company-sponsored mentorship program rooted in mentees formally pitching mentors for guidance on a 3-month project or initiative. Built from grassroots efforts, adopted and promoted by the HR team to drive employee engagement, retention, and recruitment.
 
 ![Mentor/Mentee matching](/assets/blog/copilot/copilotcover.png)
 
