@@ -9,11 +9,11 @@ export default function Intro() {
           Hi, I'm Lisa Orr 👋<br />
         </h1>
         <p className="text-2xl block text-slate-500">I build products that customers love ❤️</p>
-        <a href="/assets/resume/lisafeets_resume.pdf"
+        {/* <a href="/assets/resume/lisafeets_resume.pdf"
           className="bg-accent-1 hover:bg-white hover:text-accent-1 border border-accent-1 text-white font-bold py-3 px-12 lg:px-8 duration-200 transition-colors mt-6 inline-block"
         >
           Download Resume
-        </a>
+        </a> */}
       </div>
       <Image title={"lisafeets"} src={"/assets/blog/authors/lisa.png"} height={295} width={293}
       />
