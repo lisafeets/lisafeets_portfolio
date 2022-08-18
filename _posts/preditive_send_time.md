@@ -1,6 +1,6 @@
 ---
 title: 'Predictive Send Time Optimization'
-excerpt: 'A model that predicts the best time to send marketing messages to end users'
+excerpt: 'An AI model that predicts the optimal time to send a marketing message. Marketing teams would use this technology to personalize the messaging experince for thier consumers to drive brand loyalty and conversions.'
 coverImage: '/assets/blog/journeys/optimize-send.svg'
 date: '2022-06-07T05:35:07.322Z'
 author:
@@ -35,11 +35,9 @@ With backing from stakeholders, I began building the predictive send time soluti
 ### Customer discovery 
 We spoke with several customers about their timing strategies and how they decide when the best time to engage might be. All of the customers we spoke with expressed interest in a Best Time model for the opportunity to save themselves time and potentially increase the direct open rate of the messages being sent.
 
-
 ### Model design
 
 We took several different approaches in developing this model and our concept of what problem we were solving for evolved over time. Our goal with model exploration was to predict when a user will open an app by learning over their previous opening behavioural patterns.
-
 
 ### Productizing the Send Time solution
 

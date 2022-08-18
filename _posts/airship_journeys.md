@@ -1,6 +1,6 @@
 ---
 title: 'Airship Journeys'
-excerpt: 'Right time, right message, right audience with Airship Journeys'
+excerpt: 'A marketing technology orchestration platform that allows marketers to send meaningful messages to their customers. Marketing teams used this technology to measure, optimze and refine conversions through the customer lifecycle.'
 coverImage: '/assets/blog/journeys/crosschannel.svg'
 date: '2022-06-01T05:35:07.322Z'
 author:

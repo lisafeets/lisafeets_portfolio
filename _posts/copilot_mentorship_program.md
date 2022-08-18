@@ -1,6 +1,6 @@
 ---
 title: 'Copilot Academy Mentorship Program'
-excerpt: 'Grassroots mentorship program empowering mentees to pitch mentors'
+excerpt: 'A company-sponsored mentorship program rooted in mentees formally pitching mentors for guidance on a 3-month project or initiative. Built from grassroots efforts, adopted and promoted by the HR team to drive employee engagement, retention, and recruitment.'
 coverImage: '/assets/blog/copilot/co-pilot.svg'
 date: '2022-05-26T05:35:07.322Z'
 author:

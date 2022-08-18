@@ -1,6 +1,6 @@
 ---
 title: 'COVID-19 Vaccine Passports'
-excerpt: 'Digitally verifying consumer COVID vaccine and test data for the safe reopening of stores, stadiums, and restaurants.'
+excerpt: 'A digital verification platform for COVID vaccination and test records. Restaurants and sporting arenas used this technology to ensure their customers had a safe experience as America re-opened in 2021.'
 coverImage: '/assets/blog/vaxpass/vaxpass.svg'
 date: '2022-07-26T05:35:07.322Z'
 author:
@@ -27,16 +27,13 @@ A digital verification platform for COVID vaccination and test records. Restaura
 
 ## Execution
 
-When the COVID vaccines started to roll out, businesses were itching to get customers back in their stores/restaurants/planes/arenas. Unfortunately, not everyone was on board with vaccinating against COVID leading to doubt on whether your fellow relative/coworker/passenger/fan was actually vaccinated.
+When COVID vaccines started to roll out in 2020, businesses were itching to get customers back in their stores/restaurants/planes/arenas. Unfortunately, not all Americans were on board with vaccinating against COVID. This lead to doubt on whether your fellow relative/coworker/passenger/fan was actually vaccinated.
 
-Complicating this further were new requirments on COVID vaccination status to gain access to events or social spaces. And what evidence did we have to prove our COVID vaccination status? A piece of paper... so easily forged a whole wild market emerged to make a quick buck on enabling vaccine-shy Americans to freely reenter society without ever recieving the jab.
+Complicating this further were new requirments on COVID vaccination status to gain access to events or social spaces. And what evidence did we have to prove our COVID vaccination status? A piece of paper... so easily forged a whole wild market emerged to make a quick buck on enabling vaccine-shy Americans to freely re-enter society without ever recieving the jab.
 
-And so the COVID vaccine passport opportunity was born. Human API was uniquely positioned to verify whether consumers had actually recieved the COVID vaccine (or even COVID tests) with digital medical records. And because we were positioned so well, we heard for hundreds of companies interested in entering the newest hottest vertical of 2021. 
+And so the COVID vaccine passport opportunity was born. Human API was uniquely positioned to verify whether consumers had actually recieved the COVID vaccine (or even COVID tests) with digital medical records. And because we were positioned so well, we heard from hundreds of companies interested in entering the newest hottest business opportunity of 2021. 
 
-In this instance, the market chased the product but the market didn't know what it really wanted. How long would this market opportunity last? What level of confidence do consumers and businesses need on digital verification? Can you verify everyone we need to verify? And what the heck is HIPAA anyway??
-
-And so our work began. There's much to say on implementation itself but it pales in comparison to the amount of market uncertainty we needed to consider at every stage of our discovery and delivery process. 
-
+To capitalize on this emerging market, we created new user flows and new integrations to ensure that pateints would be able to easily find and connect with their COVID vaccine provider. We delivered patient COVID data to our customers with extrememe care for privacy and security. And all the while, I kept our eye on the market and advised (internally and externally) the continuing viability of the COVID market as each new wave came and passed.
 
 ---
 
@@ -51,3 +48,4 @@ And so our work began. There's much to say on implementation itself but it pales
 * **Helped America repoen safely during ongoing COVID waves** Remember how easily COVID vaccine cards were forged? Our technology ensured consumers were really truly vaccinated.
 * **Connected thousands patients to their COVID vaccine records** Did you get your vaccine at your doctor's office? No? Nobody did. And we did the legwork to make it possible for you to find your records even if you got the shot in a parking lot. 
 * **Made the product do the heavy lifting** We took a generalized product solution (get your medical records!) to a personalized, verticalized OOTB usecase (get your COVID vaccine records!) that our support team could spin up in minutes.
+* **Ensured the safety of employees our own company offsite** Human API hosted an offsite in Yosemite in Decmember of 2021 right before the Omicron wave. We used our own Vaccine Passport solution to ensure everyone attending was vaccined or tested negative. Zero people contracted COVID at the offsite.
