@@ -33,7 +33,7 @@ Complicating this further were new requirments on COVID vaccination status to ga
 
 And so the COVID vaccine passport opportunity was born. Human API was uniquely positioned to verify whether consumers had actually recieved the COVID vaccine (or even COVID tests) with digital medical records. And because we were positioned so well, we heard from hundreds of companies interested in entering the newest hottest business opportunity of 2021. 
 
-To capitalize on this emerging market, we created new user flows and new integrations to ensure that pateints would be able to easily find and connect with their COVID vaccine provider. We delivered patient COVID data to our customers with extrememe care for privacy and security. And all the while, I kept our eye on the market and advised (internally and externally) the continuing viability of the COVID market as each new wave came and passed.
+To capitalize on this emerging market, we created new user flows and new integrations to ensure that pateints would be able to easily find and connect with their COVID vaccine provider. We delivered patient COVID data to our customers with extreme care for privacy and security. And all the while, I kept my eye on the market and advised (internally and externally) on the continuing viability of the COVID market as each new wave came and passed.
 
 ---
 
@@ -41,11 +41,11 @@ To capitalize on this emerging market, we created new user flows and new integra
 
 ### Challenges
 * **Extracting reliable COVID test data from medical records** Medical record data is messy. Ensuring that only COVID data was extracted and delivered to the client was paramout to ensuring the viability of the product especially in the light of HIPPA and data privacy.
-* **The tempermental nature of the COVID vertical** As the waves of COVID came and went so did the market interest in verifying consumer COVID immunity. We tracked CDC data closely to ensure our product offereing was effective and timely.
-* **Everyone wants a piece of the COVID pie** ... but most market entrants have never dealt with medical data before. Part of the challenge was educating the market on what technology powers the opportunity at hand.
+* **The tempermental nature of the COVID vertical** As the waves of COVID came and went so did the market interest in verifying consumer COVID immunity. We tracked CDC data closely to ensure our product offering was effective and timely.
+* **Everyone wants a piece of the COVID pie** ... but most market entrants had never dealt with medical data before. Part of the challenge was educating the market on what technology powers the opportunity at hand.
 
 ### Achievements
 * **Helped America repoen safely during ongoing COVID waves** Remember how easily COVID vaccine cards were forged? Our technology ensured consumers were really truly vaccinated.
 * **Connected thousands patients to their COVID vaccine records** Did you get your vaccine at your doctor's office? No? Nobody did. And we did the legwork to make it possible for you to find your records even if you got the shot in a parking lot. 
 * **Made the product do the heavy lifting** We took a generalized product solution (get your medical records!) to a personalized, verticalized OOTB usecase (get your COVID vaccine records!) that our support team could spin up in minutes.
-* **Ensured the safety of employees our own company offsite** Human API hosted an offsite in Yosemite in Decmember of 2021 right before the Omicron wave. We used our own Vaccine Passport solution to ensure everyone attending was vaccined or tested negative. Zero people contracted COVID at the offsite.
+* **Ensured the safety of employees our own company offsite** Human API hosted an offsite in Yosemite in December of 2021 right before the Omicron wave. We used our own Vaccine Passport solution to ensure everyone attending was vaccined or tested negative. Zero people contracted COVID at the offsite.
