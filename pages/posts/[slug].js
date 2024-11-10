@@ -26,22 +26,20 @@ export default function Post({ post, morePosts, preview }) {
         ) : (
           <>
             <article className="mb-16">
-              <div className="bg-sky-50 pt-4 pb-2">
-                <Container>
-                  <Head>
-                    <title>
-                      {post.title} | Lisa Orr's product portfolio and blog
-                    </title>
-                    <meta property="og:image" content={post.ogImage.url} />
-                  </Head>
-                  <PostHeader
-                    title={post.title}
-                    coverImage={post.coverImage}
-                    date={post.date}
-                    author={post.author}
-                  />
-                </Container>
-              </div>
+              <Container>
+                <Head>
+                  <title>
+                    {post.title} | Lisa Orr's product portfolio and blog
+                  </title>
+                  <meta property="og:image" content={post.ogImage.url} />
+                </Head>
+                <PostHeader
+                  title={post.title}
+                  coverImage={post.coverImage}
+                  date={post.date}
+                  author={post.author}
+                />
+              </Container>
               <PostBody content={post.content} />
             </article>
           </>
